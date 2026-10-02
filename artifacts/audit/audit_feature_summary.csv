@@ -1,0 +1,14 @@
+feature,dtype,nunique_train,nunique_test,missing_train,missing_test,top_frequency
+Age,int64,45,45,0,0,0.026647125242086844
+Annual_Income_USD,float64,13214,10526,0,0,0.09213133631938265
+Daily_Commute_km,float64,805,781,0,0,0.21577321977372824
+Number_of_Cars_Owned,int64,4,4,0,0,0.4460933352276551
+Charging_Stations_Near_Home,int64,15,15,0,0,0.1518652838117742
+Charging_Stations_Near_Work,int64,20,20,0,0,0.11925104499263457
+Environmental_Concern_Level,float64,5,5,0,0,0.2205528927041194
+Gender,object,3,3,0,0,0.5502815311104963
+City_Type,object,3,3,0,0,0.4326605998519438
+Current_Car_Type,object,4,4,0,0,0.45382815012001526
+Home_Charging_Possible,object,2,2,0,0,0.6919414056366043
+Subsidy_Available,object,2,2,0,0,0.6279811265730971
+Range_Anxiety_Level,object,3,3,0,0,0.9032505066064471

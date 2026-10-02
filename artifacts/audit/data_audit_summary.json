@@ -1,0 +1,91 @@
+{
+  "shapes": {
+    "train": [
+      668665,
+      15
+    ],
+    "test": [
+      286571,
+      14
+    ],
+    "sample_submission": [
+      286571,
+      2
+    ]
+  },
+  "target": "Will_Buy_EV",
+  "id": "id",
+  "feature_match": true,
+  "submission_columns_ok": true,
+  "submission_rows_ok": true,
+  "submission_id_order_ok": true,
+  "duplicate_rows": {
+    "train": 0,
+    "test": 0
+  },
+  "duplicate_ids": {
+    "train": 0,
+    "test": 0
+  },
+  "target_rate": 0.17464500160768098,
+  "numeric_features": [
+    "Age",
+    "Annual_Income_USD",
+    "Daily_Commute_km",
+    "Number_of_Cars_Owned",
+    "Charging_Stations_Near_Home",
+    "Charging_Stations_Near_Work",
+    "Environmental_Concern_Level"
+  ],
+  "categorical_features": [
+    "Gender",
+    "City_Type",
+    "Current_Car_Type",
+    "Home_Charging_Possible",
+    "Subsidy_Available",
+    "Range_Anxiety_Level"
+  ],
+  "missing_counts_train": {
+    "id": 0,
+    "Age": 0,
+    "Annual_Income_USD": 0,
+    "Daily_Commute_km": 0,
+    "Number_of_Cars_Owned": 0,
+    "Charging_Stations_Near_Home": 0,
+    "Charging_Stations_Near_Work": 0,
+    "Environmental_Concern_Level": 0,
+    "Gender": 0,
+    "City_Type": 0,
+    "Current_Car_Type": 0,
+    "Home_Charging_Possible": 0,
+    "Subsidy_Available": 0,
+    "Range_Anxiety_Level": 0,
+    "Will_Buy_EV": 0
+  },
+  "missing_counts_test": {
+    "id": 0,
+    "Age": 0,
+    "Annual_Income_USD": 0,
+    "Daily_Commute_km": 0,
+    "Number_of_Cars_Owned": 0,
+    "Charging_Stations_Near_Home": 0,
+    "Charging_Stations_Near_Work": 0,
+    "Environmental_Concern_Level": 0,
+    "Gender": 0,
+    "City_Type": 0,
+    "Current_Car_Type": 0,
+    "Home_Charging_Possible": 0,
+    "Subsidy_Available": 0,
+    "Range_Anxiety_Level": 0
+  },
+  "constant_columns": [],
+  "near_constant_columns": [],
+  "unseen_test_categories": {
+    "Gender": [],
+    "City_Type": [],
+    "Current_Car_Type": [],
+    "Home_Charging_Possible": [],
+    "Subsidy_Available": [],
+    "Range_Anxiety_Level": []
+  }
+}

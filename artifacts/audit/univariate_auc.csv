@@ -1,0 +1,8 @@
+feature,univariate_auc,direction
+Environmental_Concern_Level,0.843521340965195,1
+Annual_Income_USD,0.6703667708314163,1
+Daily_Commute_km,0.5337569407642957,-1
+Charging_Stations_Near_Home,0.5158862771684991,-1
+Charging_Stations_Near_Work,0.5106197902135918,-1
+Age,0.5055354685835938,-1
+Number_of_Cars_Owned,0.5039345085689741,1
